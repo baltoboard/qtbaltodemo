@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>brushedmetal.png</file>
+        <file>baltodemo.css</file>
+        <file>Renesas-Logo.png</file>
+    </qresource>
+</RCC>
